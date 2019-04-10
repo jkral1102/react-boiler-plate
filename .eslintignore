@@ -1,3 +1,4 @@
-public/
+**public/
 node_modules/
 dist/
+webpack.config.js
